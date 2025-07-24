@@ -1,16 +1,15 @@
-## Hi there 👋
+ Hi there 👋
 
-<!--
-**Parizval14/Parizval14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello I'm Sathwik Elaprolu and I am from St. Mary's Engineering College taking B.Tech Ai/Ml.
+I'm interested in DSA, Ai and Ml currently studying python, Html, css.
 
-Here are some ideas to get you started:
+I'd love to join a different commumity and competition that involve creating something for the society.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills:
+Communication Skills| Currently learning
+
+- 🔭 I’m currently working on coding
+- 🌱 I’m currently learning python
+- 🤔 I’m looking for help with Ml
+- 📫 You can reach me on Insta: sathwik.e and X:shanks_5778 
+- 😄 Pronouns: he/him
